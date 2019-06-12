@@ -1,0 +1,32 @@
+header{
+    height: 60px;
+    padding-top: 1.7rem;
+    padding-left: 3rem;
+}
+.nav-item p{
+    font-size: 1em;
+    text-decoration: none;
+    color:white;
+    font-family: 'Skranji', cursive;   
+}
+.button{
+    font-family: 'PT Mono', monospace;
+}
+
+.nav-item h1{
+    font-family: 'PT Mono', monospace;
+}
+.container{
+        padding-top: 5rem;
+}
+.column img{
+    padding-left: 5rem;
+}
+.is-half button{
+    padding-left: 5rem;
+}
+
+
+
+
+
